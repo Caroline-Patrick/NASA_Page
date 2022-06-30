@@ -1,0 +1,33 @@
+body {
+    background: fffacd;
+    margin: 50px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.banner-image {
+    border: 1px solid black;
+    height: 450px;
+    width: 950px;
+    margin: 50px 75px 20px 25px;
+    background-image: url("https://www.nasa.gov/sites/default/files/styles/full_width/public/thumbnails/image/1-5000-exoplanets-1041.jpg?itok=mRS6PhXX")
+}
+
+.content {
+    border: thin solid black;
+    height: 324px;
+    width: 950px;
+    margin: 0px 75px 0px 25px;
+    display: flex;
+    justify-content: space-evenly;
+    background-color: rgb(224,224,224);
+
+}
+
+.article {
+    margin:  20px;
+    width: 270px;
+}
+
+p {
+    color:rgb(45, 43, 43);
+}
