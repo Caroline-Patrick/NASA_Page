@@ -9,7 +9,11 @@ body {
     height: 450px;
     width: 950px;
     margin: 50px 75px 20px 25px;
-    background-image: url("https://www.nasa.gov/sites/default/files/styles/full_width/public/thumbnails/image/1-5000-exoplanets-1041.jpg?itok=mRS6PhXX")
+    background-image: url("https://www.nasa.gov/sites/default/files/styles/full_width/public/thumbnails/image/1-5000-exoplanets-1041.jpg?itok=mRS6PhXX");
+    color: white;
+    font-size: 100px;
+    justify-content: center;
+    display: flex;
 }
 
 .content {
