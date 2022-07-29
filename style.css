@@ -12,8 +12,11 @@ body {
     background-image: url("https://www.nasa.gov/sites/default/files/styles/full_width/public/thumbnails/image/1-5000-exoplanets-1041.jpg?itok=mRS6PhXX");
     color: white;
     font-size: 100px;
-    justify-content: center;
     display: flex;
+    justify-content: center;
+    align-content: center;
+    font-weight: 800;
+    font-family: 'Raleway', sans-serif;
 }
 
 .content {
@@ -24,6 +27,8 @@ body {
     display: flex;
     justify-content: space-evenly;
     background-color: rgb(224,224,224);
+    font-family: 'Raleway', sans-serif;
+ 
 
 }
 
